@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6THRJkQtC9X" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Module 3 - The Specific Requirements for Light and Heavy Equipment</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Module_3_-_The_Specific_Requirements_for_Light_and_Heavy_Equipment_ORG">
+    <organization identifier="Module_3_-_The_Specific_Requirements_for_Light_and_Heavy_Equipment_ORG">
+      <title>Module 3 - The Specific Requirements for Light and Heavy Equipment</title>
+      <item identifier="Cargo_Securement_-_Module_3_-_The_Specific_Requirements_for_Light_and_Heavy_Equi_SCO" isvisible="true" identifierref="__6THRJkQtC9X_RES">
+        <title>Module 3 - The Specific Requirements for Light and Heavy Equipment</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6THRJkQtC9X_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/66dWjTrqyfA_P_0_0_1226_999.jpg" />
+      <file href="mobile/6k3ktyOcw21.png" />
+      <file href="story_content/video_5sX12vjSgf5_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_5bLj7kJVWPZ_video_5sX12vjSgf5_6_160_1920x1080.jpg" />
+      <file href="story_content/video_60M5cFvhoUc_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_5sSdkOEmVix_video_60M5cFvhoUc_6_160_1920x1080.jpg" />
+      <file href="story_content/video_63iP54kc94m_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_5x8GV4lkypy_video_63iP54kc94m_6_160_1920x1080.jpg" />
+      <file href="story_content/video_5dQlFj5gvrR_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_5Ypa1E11O3a_video_5dQlFj5gvrR_6_160_1920x1080.jpg" />
+      <file href="story_content/video_6XPjnQ0nRG9_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_6DmgIkd1jwN_video_6XPjnQ0nRG9_6_160_1920x1080.jpg" />
+      <file href="story_content/video_5Z86fUY2a9h_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_67jZZ5iOyvf_video_5Z86fUY2a9h_6_160_1920x1080.jpg" />
+      <file href="story_content/video_63R6kdQuAAX_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_6nYWlgV8dSV_video_63R6kdQuAAX_6_160_1920x1080.jpg" />
+      <file href="mobile/6Io6kWqC1vG.png" />
+      <file href="mobile/5eitEPEn74X.png" />
+      <file href="story_content/5yATOjVk2dp_44100_160_0.mp3" />
+      <file href="story_content/6SXvjGzAuR2_44100_160_0.mp3" />
+      <file href="story_content/5nOJYMfDkFA_44100_160_0.mp3" />
+      <file href="mobile/6Io6kWqC1vG_P_0_0_618_408.png" />
+      <file href="story_content/6dZrB3Ugc52_44100_160_0.mp3" />
+      <file href="story_content/6XkCTiFj3iz_44100_160_0.mp3" />
+      <file href="story_content/5nmOoZIhYV5_44100_160_0.mp3" />
+      <file href="mobile/5pURVD5Ubu4.png" />
+      <file href="story_content/5hjtlva5f7d_44100_160_0.mp3" />
+      <file href="story_content/5tJdF3JMMzQ_44100_160_0.mp3" />
+      <file href="mobile/68XfWLB5Tdj_P_51_28_643_424.png" />
+      <file href="story_content/5lQ0XqBLr0B_44100_160_0.mp3" />
+      <file href="story_content/5pbSLEAbh6z_44100_160_0.mp3" />
+      <file href="story_content/video_5X9F0OZjXww_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_6WL8hqtOMU3_video_5X9F0OZjXww_6_160_1920x1080.jpg" />
+      <file href="story_content/video_5bstgiGjcO5_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_5lUZdm2BOSE_video_5bstgiGjcO5_6_160_1920x1080.jpg" />
+      <file href="story_content/6c9y6InZ6oJ_44100_160_0.mp3" />
+      <file href="mobile/6QPjFqz66g1_P_8_7_424_256.png" />
+      <file href="mobile/6gWHIHEJPgV_P_10_10_422_257.png" />
+      <file href="story_content/5qOZgSlu5II_44100_160_0.mp3" />
+      <file href="story_content/video_5rW03gDCDNf_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_66B4M1hlevj_video_5rW03gDCDNf_6_160_1920x1080.jpg" />
+      <file href="story_content/6UCEQlfp04j_44100_160_0.mp3" />
+      <file href="mobile/5Yp0lIkzG04_P_0_0_1348_650.jpg" />
+      <file href="story_content/6f8UN7Y5Xx1_44100_160_0.mp3" />
+      <file href="story_content/video_6iDXVBUHCgS_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_6kbGSYJ6udW_video_6iDXVBUHCgS_6_160_1920x1080.jpg" />
+      <file href="story_content/6LbX6gg6ZLe_44100_160_0.mp3" />
+      <file href="mobile/6r2YfN8SZfH_P_8_7_618_365.png" />
+      <file href="story_content/6dKEncVLiuy_44100_160_0.mp3" />
+      <file href="story_content/video_69gxtNjlj6G_6_160_1920x1080.mp4" />
+      <file href="mobile/poster_6da91yWVwfg_video_69gxtNjlj6G_6_160_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/6LKWBng3b9Y.png" />
+      <file href="story_content/65LkdpVvoyk.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Drivers+Handbook+on+Cargo+Securement.pdf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jNSRBJBFK9.js" />
+      <file href="html5/data/js/5tvAnxwUkPD.js" />
+      <file href="html5/data/js/5yhaPQ55rLf.js" />
+      <file href="html5/data/js/5z0iJyQVYjy.js" />
+      <file href="html5/data/js/5zN34vYCrnq.js" />
+      <file href="html5/data/js/65wuFG8ha6i.js" />
+      <file href="html5/data/js/67dXEv5nmDg.js" />
+      <file href="html5/data/js/6b8T9NoqslJ.js" />
+      <file href="html5/data/js/6BjNyNnG2jR.js" />
+      <file href="html5/data/js/6BQGxwGdHWH.js" />
+      <file href="html5/data/js/6cer9zAtNjl.js" />
+      <file href="html5/data/js/6dw1yk4nbFu.js" />
+      <file href="html5/data/js/6ESFfH0mPmr.js" />
+      <file href="html5/data/js/6f46YexHigb.js" />
+      <file href="html5/data/js/6Ff7UH17VnM.js" />
+      <file href="html5/data/js/6GXIa4DG9sF.js" />
+      <file href="html5/data/js/6h4ETnxV2n5.js" />
+      <file href="html5/data/js/6HRIiFRcehy.js" />
+      <file href="html5/data/js/6lgtnIACiYk.js" />
+      <file href="html5/data/js/6nKckDboBAn.js" />
+      <file href="html5/data/js/6oHgFuQVvdD.js" />
+      <file href="html5/data/js/6pN03k0W9sN.js" />
+      <file href="html5/data/js/6rVwqwfgdE6.js" />
+      <file href="html5/data/js/6VyBxQeJDcz.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
